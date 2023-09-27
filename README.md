@@ -15,7 +15,7 @@
 
 ### Study
 - I engageding in self-study
-- Completed courses of [JavaScript](https://rs.school/js/) in [RS School](https://rs.school/index.html)
+- Completed courses of [JavaScript](https://rs.school/js/) ([Stage 0](https://app.rs.school/certificate/x1tfqvul), [Stage 1-2](https://app.rs.school/certificate/ieunma64)) in [RS School](https://rs.school/index.html)
 - Now I'm learning ***React***
 
 ### Technologies
