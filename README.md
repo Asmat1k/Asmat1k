@@ -10,13 +10,13 @@
 
 ### About me
 - Hi, my name is [Tim Dobrov](https://t.me/asmat1k)
-- I'm learning frontend since ocotober 2022
+- I'm learning frontend since the end of 2022
 - I’m currently studying in BSTU "VOENMEH" on Software Engineering
 
 ### Study
 - I engageding in self-study
 - Completed courses of [JavaScript](https://rs.school/js/) ([Stage 0](https://app.rs.school/certificate/x1tfqvul), [Stage 1-2](https://app.rs.school/certificate/ieunma64)) in [RS School](https://rs.school/index.html)
-- Now I'm learning ***React***
+- Now I'm learning [React](https://react.dev/) and [Vue3](https://v3.ru.vuejs.org/)
 
 ### Technologies
 <div align="left">
@@ -26,7 +26,8 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/>
+        <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  	<img width="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack"/>
 	<img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c49c6dbd-992a-4f14-9cf4-ff40cb5344ed" alt="Gulp" title="Gulp"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
