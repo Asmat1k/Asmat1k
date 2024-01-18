@@ -9,14 +9,14 @@
 </div>
 
 ### About me
-- Hi, my name is [Tim Dobrov](https://t.me/asmat1k)
-- I'm learning frontend since the end of 2022
+- Hi, my name is [Tim](https://t.me/asmat1k)
+- I'm learning web development since the end of 2022
 - I’m currently studying in BSTU "VOENMEH" on Software Engineering
 
 ### Study
 - I engageding in self-study
-- Completed courses of [JavaScript](https://rs.school/js/) ([Stage 0](https://app.rs.school/certificate/x1tfqvul), [Stage 1-2](https://app.rs.school/certificate/ieunma64)) in [RS School](https://rs.school/index.html)
-- Now I'm learning [React](https://react.dev/) and [Vue3](https://v3.ru.vuejs.org/)
+- Successfully completed [JavaScript](https://disk.yandex.ru/d/wMbJ4ys6CldiGQ) and [React](https://app.rs.school/certificate/ff0akdpo) courses in **RS School**
+- Now I'm learning **React / TypeScript** and trying myself in **Vue3**
 
 ### Technologies
 <div align="left">
