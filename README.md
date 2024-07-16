@@ -4,7 +4,7 @@
 
 <div align=center>
     <a href="https://www.linkedin.com/in/tim-dobrov-a8781a28a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:dobrovtimofey18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:i@dobrov-it.ru"><img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://t.me/asmat1k"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </div>
 
@@ -16,7 +16,7 @@
 ### Study
 - I engageding in self-study
 - Successfully completed [JavaScript](https://disk.yandex.ru/d/wMbJ4ys6CldiGQ) and [React](https://app.rs.school/certificate/ff0akdpo) courses in **RS School**
-- Now I'm learning **React / TypeScript** and trying myself in **Vue3**
+- Now I'm learning **React / TypeScript** and other cool technologies
 
 ### Technologies
 <div align="left">
@@ -28,7 +28,7 @@
 	<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
         <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-	<img width="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
+	<img width="35" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
   	<img width="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/>
