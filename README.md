@@ -11,10 +11,10 @@
 - Hi, my name is [Tim](https://t.me/asmat1k)
 - I'm learning web development since 2023
 - My current main stack is: **React, TypeScript, MobX, SCSS and JEST**
+- I like to solve complex problems and immerse myself in technology
 
 ### Study
-- I like to do self-study and work with cool technologies
-- Graduated from BSTU "VOENMEH" with a degree in Software Engineering
+- Bachelor's degree in Software Engineering at BSTU "VOENMEH" and currently a Web Technology Master at ITMO university
 - Successfully completed [JavaScript](https://disk.yandex.ru/d/wMbJ4ys6CldiGQ) and [React](https://app.rs.school/certificate/ff0akdpo) courses in **RS School**
 
 ### Technologies
