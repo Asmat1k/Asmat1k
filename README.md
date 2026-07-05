@@ -14,7 +14,7 @@
 - I like to solve complex problems and immerse myself in technology
 
 ### Study
-- Bachelor's degree in Software Engineering at BSTU "VOENMEH" and currently a Web Technology Master at ITMO university
+- Bachelor's degree in **Software Engineering** at BSTU "VOENMEH" and currently a **Web Technology** Master at ITMO university
 - Successfully completed [JavaScript](https://disk.yandex.ru/d/wMbJ4ys6CldiGQ) and [React](https://app.rs.school/certificate/ff0akdpo) courses in **RS School**
 
 ### Technologies
